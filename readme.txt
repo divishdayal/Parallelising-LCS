@@ -1,6 +1,6 @@
-This project contains the sequential as well as parrallel(multi-threaded in PThreads library) code for calculating LCS(longest 
-common subsequence) of various documents and finally printing the intersection in these documents where each line is 
-considered as one sequence for calculating LCS/intersection.
+This project(for parallel computing course in my college) contains the sequential as well as parrallel(multi-threaded in 
+PThreads library) code for calculating LCS(longest common subsequence) of various documents and finally printing the 
+intersection in these documents where each line is considered as one sequence for calculating LCS/intersection.
 
 There are 1000 documents in the folder. You can test for any number of it. Max lines in any file is around 1000.
 Problem 1 has been implemented using PThread library.
